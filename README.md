@@ -1,4 +1,4 @@
-# Information and materials for DLinNLP 2023 Summer School
+# Information and materials for RANLP 2025 Summer School
 This repository contains the materials and some information regarding the RANLP Summer school 2025. The summer school will be held as part of the Recent Advances in Natural Language Processing (RANLP 2025) in Varna, Bulgaria.
 
 The summer school four three keynote speeches plus six practical sessions. 
